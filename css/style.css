@@ -952,6 +952,23 @@ footer img {
 }
 
 
+/* Single project page */
+
+.top-bar5{
+    color: #333;
+    padding: 150px 0 150px;
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .7), rgba(255, 255, 255, .7)), url(../img/top.jpeg);
+    background: linear-gradient( rgba(255, 255, 255, .7), rgba(255, 255, 255, .7)), url(../img/top.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    text-align: center;
+    height: 66vh;
+}
+
+
+
+
 /* About page
 ==================================================*/
 
