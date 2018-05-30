@@ -8,11 +8,11 @@
 
 /* Table of Content
 ==================================================
-	- Google fonts & font family -
-	- General -
+    - Google fonts & font family -
+    - General -
     - typography -
     - Preloader -
-	- Header -
+    - Header -
     - box intro section -
     - Portfoilo section -
     - Footer -
@@ -37,7 +37,7 @@ body {
     height: 100%;
     font-family: 'Poppins', sans-serif;
     line-height: 1.8;
-    color: #999
+    color: #999;
 }
 
 .no-padding {
@@ -97,6 +97,8 @@ h3 {
 h5 {
     color: #ffbf00;
 }
+
+
 
 
 /* preloader
@@ -731,9 +733,7 @@ b i:last-child {
 
 
 /* à régler */
- .portfolio_item-2{
-    border: 2px solid white;
-}
+
 
 .portfolio_item .portfolio_item_hover {
     position: absolute;
@@ -1202,6 +1202,16 @@ textarea:focus {
     color: #ffbf00;
 }
 
+.social-link{
+    height: 3rem;
+    width: 3rem;
+    font-size: 5rem;
+}
+
+
+.social-link:hover{
+    color:#ffbf00;
+}
 
 /* Responsive media queries
 ==================================================*/
